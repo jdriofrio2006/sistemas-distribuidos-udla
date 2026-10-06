@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1764" height="1310" viewBox="0 0 1764 1310">
+<rect x="0" y="0" width="1764" height="1310" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<rect x="0" y="0" width="44" height="1310" rx="0" fill="#808080" stroke="#808080" stroke-width="1"/>
+<text x="75" y="36" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#808080" text-anchor="start">FACULTAD DE INGENIERÍA Y CIENCIAS APLICADAS</text>
+<text x="75" y="63" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" fill="#202020" text-anchor="start">Juan Riofrio · Edu Teran · Hernan Sanchez</text>
+<text x="75" y="86" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Materia: Sistemas Distribuidos · Universidad de Las Américas · Quito, Ecuador</text>
+<image x="1539" y="15" width="165" height="73.68932038834951" href="data:image/png;base64,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"/>
+<polyline points="75,99 1704,99" fill="none" stroke="#DADADA" stroke-width="1.6"/>
+<g transform="translate(60,100)">
+<text x="50" y="43" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" fill="#C22033" text-anchor="start">SISTEMAS DISTRIBUIDOS · MAPA CONCEPTUAL</text>
+<text x="1634" y="43" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="700" fill="#971A28" text-anchor="end">BORRADOR PARA VALIDACIÓN DEL EQUIPO</text>
+<text x="50" y="69" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#808080" text-anchor="start">Relaciones conceptuales, criterios y cinco propiedades de diseño. Fecha: 06/10/2026.</text>
+<rect x="487" y="98" width="710" height="79" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="503" y="126" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" fill="#C22033" text-anchor="start">SISTEMA DISTRIBUIDO</text>
+<text x="503" y="160.3" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Nodos autónomos que cooperan mediante mensajes en un objetivo común. [1]</text>
+<polyline points="842,177 842,190 306,190 306,233" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="306,233 302.5202757271102,225.7964231811786 309.4797242728898,225.7964231811786" fill="#808080"/>
+<polyline points="842,177 842,190 842,190 842,233" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="842,233 838.5202757271102,225.7964231811786 845.4797242728898,225.7964231811786" fill="#808080"/>
+<polyline points="842,177 842,190 1378,190 1378,233" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1378,233 1374.5202757271102,225.7964231811786 1381.4797242728898,225.7964231811786" fill="#808080"/>
+<rect x="246.81591796875" y="204" width="118.36816406250001" height="20" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="306" y="217" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="400" fill="#808080" text-anchor="middle">se reconoce por</text>
+<rect x="745.437744140625" y="204" width="193.12451171875003" height="20" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="842" y="217" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="400" fill="#808080" text-anchor="middle">puede organizar tareas con</text>
+<rect x="1285.487548828125" y="204" width="185.02490234375003" height="20" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1378" y="217" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="400" fill="#808080" text-anchor="middle">puede ejecutar tareas con</text>
+<rect x="50" y="233" width="512" height="129" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="66" y="261" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700" fill="#C22033" text-anchor="start">CRITERIOS</text>
+<text x="66" y="292.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Autonomía de nodos · memoria propia</text>
+<text x="66" y="315.09999999999997" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Comunicación mediante mensajes</text>
+<text x="66" y="337.49999999999994" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Cooperación y objetivo común. [1]</text>
+<rect x="586" y="233" width="512" height="129" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="602" y="261" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700" fill="#C22033" text-anchor="start">CONCURRENCIA</text>
+<text x="602" y="292.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Varias tareas progresan en un mismo período.</text>
+<text x="602" y="315.09999999999997" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Pueden alternarse o ejecutarse simultáneamente.</text>
+<text x="602" y="337.49999999999994" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Ejemplo: solicitudes intercaladas en un núcleo. [2]</text>
+<rect x="1122" y="233" width="512" height="129" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1138" y="261" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="700" fill="#C22033" text-anchor="start">PARALELISMO</text>
+<text x="1138" y="292.7" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Varias tareas se ejecutan simultáneamente.</text>
+<text x="1138" y="315.09999999999997" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Requiere recursos de ejecución disponibles.</text>
+<text x="1138" y="337.49999999999994" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="400" fill="#202020" text-anchor="start">Ejemplo: tareas en dos núcleos de una máquina. [2]</text>
+<polyline points="842,362 842,391 1378,391 1378,362" fill="none" stroke="#C22033" stroke-width="1.6"/>
+<polygon points="1378,362 1381.4797242728898,369.20357681882143 1374.5202757271102,369.20357681882143" fill="#C22033"/>
+<rect x="1039.21240234375" y="377" width="141.5751953125" height="20" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1110" y="390" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="400" fill="#C22033" text-anchor="middle">puede coexistir con</text>
+<polyline points="487,137 30,137 30,405 842,405 842,434" fill="none" stroke="#C22033" stroke-width="1.6"/>
+<polygon points="842,434 838.5202757271102,426.79642318117857 845.4797242728898,426.79642318117857" fill="#C22033"/>
+<rect x="246.196533203125" y="392" width="167.60693359375" height="20" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="330" y="405" font-family="DejaVu Sans, Arial, sans-serif" font-size="13" font-weight="400" fill="#C22033" text-anchor="middle">se diseña considerando</text>
+<rect x="567" y="434" width="550" height="55" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="583" y="462" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="700" fill="#C22033" text-anchor="start">CINCO PROPIEDADES FUNDAMENTALES</text>
+<polyline points="842,489 842,510 199.6,510 199.6,539" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="199.6,539 196.12027572711014,531.7964231811786 203.07972427288985,531.7964231811786" fill="#808080"/>
+<polyline points="842,489 842,510 520.8,510 520.8,539" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="520.8,539 517.3202757271101,531.7964231811786 524.2797242728898,531.7964231811786" fill="#808080"/>
+<polyline points="842,489 842,510 842.0,510 842.0,539" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="842.0,539 838.5202757271102,531.7964231811786 845.4797242728898,531.7964231811786" fill="#808080"/>
+<polyline points="842,489 842,510 1163.1999999999998,510 1163.1999999999998,539" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1163.1999999999998,539 1159.72027572711,531.7964231811786 1166.6797242728896,531.7964231811786" fill="#808080"/>
+<polyline points="842,489 842,510 1484.3999999999999,510 1484.3999999999999,539" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1484.3999999999999,539 1480.92027572711,531.7964231811786 1487.8797242728897,531.7964231811786" fill="#808080"/>
+<rect x="50.0" y="539" width="299.2" height="67" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="66.0" y="567" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">01 · ACCESO A RECURSOS</text>
+<text x="66.0" y="587.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">COMPARTIDOS</text>
+<polyline points="199.6,606 199.6,641" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="199.6,641 196.12027572711014,633.7964231811786 203.07972427288985,633.7964231811786" fill="#808080"/>
+<rect x="146.72109375" y="615" width="105.7578125" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="199.6" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">permite utilizar</text>
+<rect x="50.0" y="641" width="299.2" height="135" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="66.0" y="669" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#C22033" text-anchor="start">RECURSOS</text>
+<text x="66.0" y="695.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Datos · archivos · servicios</text>
+<text x="66.0" y="715.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Almacenamiento · hardware</text>
+<text x="66.0" y="736.0999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Compartidos entre usuarios.</text>
+<polyline points="199.6,776 199.6,813" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="199.6,813 196.12027572711014,805.7964231811786 203.07972427288985,805.7964231811786" fill="#808080"/>
+<rect x="167.3138671875" y="787" width="64.572265625" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="199.6" y="799" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">requiere</text>
+<rect x="50.0" y="813" width="299.2" height="117" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="66.0" y="841" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#C22033" text-anchor="start">CONTROL Y COORDINACIÓN</text>
+<text x="66.0" y="866.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Permisos de acceso</text>
+<text x="66.0" y="885.8000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Modificaciones coordinadas</text>
+<text x="66.0" y="905.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Protección de integridad.</text>
+<polyline points="199.6,930 199.6,968" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="199.6,968 196.12027572711014,960.7964231811786 203.07972427288985,960.7964231811786" fill="#808080"/>
+<rect x="141.68203125" y="940" width="115.8359375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="199.6" y="952" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se ejemplifica en</text>
+<rect x="50.0" y="968" width="299.2" height="105" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="66.0" y="996" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#971A28" text-anchor="start">NFS</text>
+<text x="66.0" y="1022.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Clientes acceden a archivos</text>
+<text x="66.0" y="1042.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">de un servidor por la red. [4]</text>
+<text x="61.0" y="1089" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.8" font-weight="700" fill="#971A28" text-anchor="start">EJEMPLO IA · POR VALIDAR</text>
+<rect x="50.0" y="1100" width="299.2" height="68" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="66.0" y="1123" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">Compartir exige controlar</text>
+<text x="66.0" y="1139.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">quién accede y cómo modifica.</text>
+<rect x="371.2" y="539" width="299.2" height="67" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="387.2" y="567" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">02 · TRANSPARENCIA</text>
+<polyline points="520.8,606 520.8,641" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="520.8,641 517.3202757271101,633.7964231811786 524.2797242728898,633.7964231811786" fill="#808080"/>
+<rect x="460.33613281249995" y="615" width="120.927734375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="520.8" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">oculta detalles de</text>
+<rect x="371.2" y="641" width="299.2" height="135" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="387.2" y="669" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#C22033" text-anchor="start">DISTRIBUCIÓN</text>
+<text x="387.2" y="695.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Acceso · ubicación</text>
+<text x="387.2" y="715.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Migración · reubicación</text>
+<text x="387.2" y="736.0999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Replicación · concurrencia</text>
+<text x="387.2" y="756.3999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Fallos y recuperación. [1]</text>
+<polyline points="520.8,776 520.8,813" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="520.8,813 517.3202757271101,805.7964231811786 524.2797242728898,805.7964231811786" fill="#808080"/>
+<rect x="454.51484374999995" y="787" width="132.5703125" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="520.8" y="799" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se facilita mediante</text>
+<rect x="371.2" y="813" width="299.2" height="117" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="387.2" y="841" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#C22033" text-anchor="start">MIDDLEWARE</text>
+<text x="387.2" y="866.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Capa de software que facilita</text>
+<text x="387.2" y="885.8000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">comunicación, acceso y</text>
+<text x="387.2" y="905.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">coordinación de componentes.</text>
+<polyline points="520.8,930 520.8,968" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="520.8,968 517.3202757271101,960.7964231811786 524.2797242728898,960.7964231811786" fill="#808080"/>
+<rect x="462.88203124999995" y="940" width="115.8359375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="520.8" y="952" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se ejemplifica en</text>
+<rect x="371.2" y="968" width="299.2" height="105" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="387.2" y="996" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#971A28" text-anchor="start">SITIO WEB / URL</text>
+<text x="387.2" y="1022.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Un nombre lógico oculta la</text>
+<text x="387.2" y="1042.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">ubicación física del servidor.</text>
+<text x="382.2" y="1089" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.8" font-weight="700" fill="#971A28" text-anchor="start">EJEMPLO IA · POR VALIDAR</text>
+<rect x="371.2" y="1100" width="299.2" height="68" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="387.2" y="1123" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">Límite: no oculta todo.</text>
+<text x="387.2" y="1139.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">Registros y latencia pueden</text>
+<text x="387.2" y="1156.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">exponer detalles del sistema.</text>
+<rect x="692.4" y="539" width="299.2" height="67" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="708.4" y="567" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">03 · SISTEMAS ABIERTOS</text>
+<polyline points="842.0,606 842.0,641" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="842.0,641 838.5202757271102,633.7964231811786 845.4797242728898,633.7964231811786" fill="#808080"/>
+<rect x="802.5859375" y="615" width="78.828125" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="842.0" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se basa en</text>
+<rect x="692.4" y="641" width="299.2" height="135" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="708.4" y="669" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#C22033" text-anchor="start">INTERFACES Y ESTÁNDARES</text>
+<text x="708.4" y="695.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Interfaces bien definidas</text>
+<text x="708.4" y="715.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Documentación y estándares</text>
+<text x="708.4" y="736.0999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Independencia de fabricantes.</text>
+<polyline points="842.0,776 842.0,813" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="842.0,813 838.5202757271102,805.7964231811786 845.4797242728898,805.7964231811786" fill="#808080"/>
+<rect x="808.8408203125" y="787" width="66.318359375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="842.0" y="799" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">favorece</text>
+<rect x="692.4" y="813" width="299.2" height="117" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="708.4" y="841" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#C22033" text-anchor="start">INTEROPERABILIDAD</text>
+<text x="708.4" y="866.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Integración · extensión</text>
+<text x="708.4" y="885.8000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Sustitución de componentes</text>
+<text x="708.4" y="905.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Sin liberar datos protegidos.</text>
+<polyline points="842.0,930 842.0,968" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="842.0,968 838.5202757271102,960.7964231811786 845.4797242728898,960.7964231811786" fill="#808080"/>
+<rect x="784.08203125" y="940" width="115.8359375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="842.0" y="952" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se ejemplifica en</text>
+<rect x="692.4" y="968" width="299.2" height="105" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="708.4" y="996" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#971A28" text-anchor="start">PROTOCOLO NFSv4</text>
+<text x="708.4" y="1022.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Su especificación favorece</text>
+<text x="708.4" y="1042.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">interoperabilidad entre</text>
+<text x="708.4" y="1061.6999999999998" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">plataformas. [4]</text>
+<text x="703.4" y="1089" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.8" font-weight="700" fill="#971A28" text-anchor="start">EJEMPLO IA · POR VALIDAR</text>
+<rect x="692.4" y="1100" width="299.2" height="68" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="708.4" y="1123" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">Abierto no significa acceso</text>
+<text x="708.4" y="1139.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">libre ni obliga a usar</text>
+<text x="708.4" y="1156.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">código abierto.</text>
+<rect x="1013.5999999999999" y="539" width="299.2" height="67" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="1029.6" y="567" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">04 · ESCALABILIDAD</text>
+<polyline points="1163.1999999999998,606 1163.1999999999998,641" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1163.1999999999998,641 1159.72027572711,633.7964231811786 1166.6797242728896,633.7964231811786" fill="#808080"/>
+<rect x="1126.2058593749998" y="615" width="73.98828125" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1163.1999999999998" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">puede ser</text>
+<rect x="1013.5999999999999" y="641" width="299.2" height="135" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1029.6" y="669" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#C22033" text-anchor="start">VERTICAL Y HORIZONTAL</text>
+<text x="1029.6" y="695.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Vertical: más recursos en</text>
+<text x="1029.6" y="715.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">una máquina.</text>
+<text x="1029.6" y="736.0999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Horizontal: más máquinas. [1]</text>
+<polyline points="1163.1999999999998,776 1163.1999999999998,813" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1163.1999999999998,813 1159.72027572711,805.7964231811786 1166.6797242728896,805.7964231811786" fill="#808080"/>
+<rect x="1107.1775390624998" y="787" width="112.044921875" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1163.1999999999998" y="799" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se relaciona con</text>
+<rect x="1013.5999999999999" y="813" width="299.2" height="117" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1029.6" y="841" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#C22033" text-anchor="start">ELASTICIDAD</text>
+<text x="1029.6" y="866.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Aumentar y reducir capacidad</text>
+<text x="1029.6" y="885.8000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">según la demanda.</text>
+<text x="1029.6" y="905.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Automatización frecuente. [3]</text>
+<polyline points="1163.1999999999998,930 1163.1999999999998,968" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1163.1999999999998,968 1159.72027572711,960.7964231811786 1166.6797242728896,960.7964231811786" fill="#808080"/>
+<rect x="1105.2820312499998" y="940" width="115.8359375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1163.1999999999998" y="952" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se ejemplifica en</text>
+<rect x="1013.5999999999999" y="968" width="299.2" height="105" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="1029.6" y="996" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#971A28" text-anchor="start">KUBERNETES / HPA</text>
+<text x="1029.6" y="1022.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Ajusta réplicas según métricas.</text>
+<text x="1029.6" y="1042.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Ilustra escalado horizontal</text>
+<text x="1029.6" y="1061.6999999999998" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">y elasticidad. [5]</text>
+<text x="1024.6" y="1089" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.8" font-weight="700" fill="#971A28" text-anchor="start">EJEMPLO IA · POR VALIDAR</text>
+<rect x="1013.5999999999999" y="1100" width="299.2" height="68" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1029.6" y="1123" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">Escalar puede ser manual</text>
+<text x="1029.6" y="1139.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">o automático; el diseño</text>
+<text x="1029.6" y="1156.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">limita el rendimiento. [7]</text>
+<rect x="1334.8" y="539" width="299.2" height="67" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="1350.8" y="567" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">05 · CONFIABILIDAD /</text>
+<text x="1350.8" y="587.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="700" fill="#C22033" text-anchor="start">TOLERANCIA A FALLOS</text>
+<polyline points="1484.3999999999999,606 1484.3999999999999,641" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1484.3999999999999,641 1480.92027572711,633.7964231811786 1487.8797242728897,633.7964231811786" fill="#808080"/>
+<rect x="1425.1285156249999" y="615" width="118.54296875" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1484.3999999999999" y="627" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">busca un servicio</text>
+<rect x="1334.8" y="641" width="299.2" height="135" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1350.8" y="669" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#C22033" text-anchor="start">CORRECTO Y CONTINUO</text>
+<text x="1350.8" y="695.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Disponibilidad · fiabilidad</text>
+<text x="1350.8" y="715.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Safety · mantenibilidad</text>
+<text x="1350.8" y="736.0999999999999" font-family="DejaVu Sans, Arial, sans-serif" font-size="14.5" font-weight="400" fill="#202020" text-anchor="start">Seguridad de información. [1]</text>
+<polyline points="1484.3999999999999,776 1484.3999999999999,813" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1484.3999999999999,813 1480.92027572711,805.7964231811786 1487.8797242728897,805.7964231811786" fill="#808080"/>
+<rect x="1430.9380859374999" y="787" width="106.923828125" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1484.3999999999999" y="799" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se refuerza con</text>
+<rect x="1334.8" y="813" width="299.2" height="117" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1350.8" y="841" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="700" fill="#C22033" text-anchor="start">MECANISMOS ANTE FALLOS</text>
+<text x="1350.8" y="866.2" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Replicación · detección</text>
+<text x="1350.8" y="885.8000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Recuperación · coordinación</text>
+<text x="1350.8" y="905.4000000000001" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Según las fallas previstas.</text>
+<polyline points="1484.3999999999999,930 1484.3999999999999,968" fill="none" stroke="#808080" stroke-width="1.6"/>
+<polygon points="1484.3999999999999,968 1480.92027572711,960.7964231811786 1487.8797242728897,960.7964231811786" fill="#808080"/>
+<rect x="1426.4820312499999" y="940" width="115.8359375" height="19" rx="3" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0"/>
+<text x="1484.3999999999999" y="952" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#808080" text-anchor="middle">se ejemplifica en</text>
+<rect x="1334.8" y="968" width="299.2" height="105" rx="12" fill="#FAF0F2" stroke="#DADADA" stroke-width="1"/>
+<text x="1350.8" y="996" font-family="DejaVu Sans, Arial, sans-serif" font-size="15" font-weight="700" fill="#971A28" text-anchor="start">ETCD: TRES MIEMBROS</text>
+<text x="1350.8" y="1022.5" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">Tolera un miembro fallido si</text>
+<text x="1350.8" y="1042.1" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">los otros dos se comunican</text>
+<text x="1350.8" y="1061.6999999999998" font-family="DejaVu Sans, Arial, sans-serif" font-size="14" font-weight="400" fill="#202020" text-anchor="start">y mantienen la mayoría. [6]</text>
+<text x="1345.8" y="1089" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.8" font-weight="700" fill="#971A28" text-anchor="start">EJEMPLO IA · POR VALIDAR</text>
+<rect x="1334.8" y="1100" width="299.2" height="68" rx="12" fill="#F6F6F6" stroke="#DADADA" stroke-width="1"/>
+<text x="1350.8" y="1123" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">No garantiza soportar</text>
+<text x="1350.8" y="1139.8" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">cualquier falla. Un respaldo</text>
+<text x="1350.8" y="1156.6" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" font-weight="400" fill="#202020" text-anchor="start">no evita toda interrupción.</text>
+<text x="50" y="1182" font-family="DejaVu Sans, Arial, sans-serif" font-size="10.5" font-weight="400" fill="#808080" text-anchor="start">Fuentes [1]–[7]: referencias en el informe. Los matices y ejemplos pendientes no constituyen decisiones finales del equipo.</text>
+</g></svg>
