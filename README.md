@@ -1,24 +1,31 @@
-# Sistemas Distribuidos — UDLA
+# Sistemas Distribuidos · UDLA
 
-**Integrantes:** Juan Riofrio · Edu Teran · Hernan Sanchez  
-**Materia:** Sistemas Distribuidos  
-**Fecha:** 6 de octubre de 2026
+Mapa conceptual de la actividad grupal presencial del Progreso 1.
 
-[**Abrir el mapa conceptual en PDF**](Mapa_Conceptual_Sistemas_Distribuidos_Borrador.pdf)  
-[Descargar la versión SVG editable](Mapa_Conceptual_Sistemas_Distribuidos_Borrador.svg)
+**Integrantes:** Juan Riofrio · Edu Teran · Hernan Sanchez · Adrian Moya
 
-![Mapa conceptual de Sistemas Distribuidos](Mapa_Conceptual_Sistemas_Distribuidos_Borrador.svg)
+**Materia:** Sistemas Distribuidos · Universidad de Las Américas, Quito.
 
-El mapa relaciona los criterios de un sistema distribuido, concurrencia y paralelismo, y las cinco propiedades: acceso a recursos compartidos, transparencia, sistemas abiertos, escalabilidad y confiabilidad/tolerancia a fallos.
+## Consultar el mapa
 
-**Estado:** borrador para validación del equipo. Los ejemplos y matices señalados como pendientes requieren la revisión humana documentada en la bitácora del informe.
+- [Mapa en PDF](Mapa_Conceptual_Sistemas_Distribuidos_Borrador.pdf)
+- [Mapa en SVG](Mapa_Conceptual_Sistemas_Distribuidos_Borrador.svg)
+
+Los nombres de archivo originales se conservan para mantener los enlaces. Su contenido corresponde a la versión actualizada del 6 de octubre de 2026.
+
+El mapa conecta los criterios de un sistema distribuido, concurrencia y paralelismo, y cinco propiedades: acceso a recursos, transparencia, sistemas abiertos, escalabilidad y confiabilidad/tolerancia a fallos.
+
+Los ejemplos seleccionados por el equipo son Microsoft OneDrive, DNS, NFSv4, Kubernetes con HPA y AWS Multi-AZ con Elastic Load Balancing. Las razones se redactaron con apoyo de IA y se contrastaron con las diapositivas y documentación oficial. El informe entregado contiene la bitácora humano–IA–humano y la coevaluación del grupo.
 
 ## Referencias del mapa
 
-1. Benalcázar, J. (2026). *Clase 2. Sistemas distribuidos* [Diapositivas]. Material proporcionado para la actividad.
-2. Gerrand, A. (2013). [Concurrency is not parallelism](https://go.dev/blog/waza-talk). The Go Blog.
-3. NIST. [Rapid elasticity](https://csrc.nist.gov/glossary/term/rapid_elasticity).
-4. Haynes, T., y Noveck, D. (2015). [Network File System (NFS) Version 4 Protocol — RFC 7530](https://www.rfc-editor.org/rfc/rfc7530).
-5. Kubernetes. [Horizontal Pod Autoscaling](https://kubernetes.io/docs/concepts/workloads/autoscaling/horizontal-pod-autoscale/).
-6. etcd. [FAQ — v3.6](https://etcd.io/docs/v3.6/faq/).
-7. Amazon Web Services. [Choose your scaling method](https://docs.aws.amazon.com/autoscaling/ec2/userguide/scaling-overview.html).
+1. Benalcázar, J. (2026). *Clase 2. Sistemas distribuidos*. Diapositivas proporcionadas para la actividad.
+2. [Concurrency is not parallelism · Go](https://go.dev/blog/waza-talk)
+3. [Rapid elasticity · NIST](https://csrc.nist.gov/glossary/term/rapid_elasticity)
+4. [NFSv4 · RFC 7530](https://www.rfc-editor.org/rfc/rfc7530)
+5. [Horizontal Pod Autoscaling · Kubernetes](https://kubernetes.io/docs/concepts/workloads/autoscaling/horizontal-pod-autoscale/)
+6. [Fault tolerance · etcd FAQ](https://etcd.io/docs/v3.6/faq/)
+7. [Choose your scaling method · AWS](https://docs.aws.amazon.com/autoscaling/ec2/userguide/scaling-overview.html)
+8. [Collaboration and permissions · OneDrive](https://support.microsoft.com/en-us/onedrive/collaborate-in-microsoft-onedrive-sharing-editing-and-managing-files)
+9. [Domain names · RFC 1034](https://www.rfc-editor.org/rfc/rfc1034)
+10. [How Elastic Load Balancing works · AWS](https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html)
